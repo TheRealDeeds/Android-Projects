@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Idlegamepractice</string>
+    <string name="textIronOre">name1</string>
+    <string name="textIronBar">name2</string>
+    <string name="buttonMine">Mine</string>
+    <string name="buttonSmeltIron">Smelt</string>
+    <string name="buttonUpgradeAmount">Upgrade Iron</string>
+    <string name="buttonUpgradeSpeed">Upgrade Speed</string>
+    <string name="textMineClicks">Mine Clicks</string>
+</resources>
