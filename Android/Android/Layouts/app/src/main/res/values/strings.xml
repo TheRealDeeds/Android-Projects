@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="Placeholder">Placeholder</string>
+    <string name="buttonUpload">Upload</string>
+    <string name="buttonDiscard">Discard</string>
+    <string name="Camera">Camera</string>
+    <string name="CameraValue">Canon Type D</string>
+    <string name="Settings">Settings</string>
+    <string name="CameraSettings">f/4 16s ISO 200</string>
+    <string name="Title">Singapore</string>
+</resources>
